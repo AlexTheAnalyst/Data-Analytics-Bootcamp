@@ -1,6 +1,6 @@
 # Data-Analytics-Bootcamp
 
-CONGRATULATIONS!! 
+# CONGRATULATIONS!! 
 
 You've successfully completed the Alex Analytics Data Analyst Bootcamp!
 
