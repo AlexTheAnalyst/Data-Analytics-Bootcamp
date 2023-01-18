@@ -20,4 +20,4 @@ Data Analytics Bootcamp Link: https://www.youtube.com/playlist?list=PLUaB-1hjhk8
 
 .
 
-*Note: This Certificate is not my endorsement for a job. I can not vouch for you as an analyst, individual, or professional. Certifications are not legally binding or a contractual agreement of any kind.
+*Note: This Certificate is not my endorsement for a job. I can not vouch for you as an analyst, individual, or professional. Certifications are not legally binding or a contractual agreement of any kind. This Certification is a self-verification that you completed the entire Data Analyst Bootcamp playlist.
