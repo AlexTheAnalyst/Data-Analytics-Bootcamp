@@ -11,12 +11,15 @@ Go ahead and download the certifications in this repository! You've earned it! W
 #### I hope it helps you land a job in Analytics!
 
 Data Analytics Bootcamp Link: https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF
+
 .
+
 .
+
 .
+
 .
-.
-.
+
 .
 
 *Note: This Certificate is not my endorsement for a job. I can not vouch for you as an analyst, individual, or professional. Certifications are not legally binding or a contractual agreement of any kind.
